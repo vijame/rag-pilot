@@ -1,0 +1,10 @@
+# beautifulsoup4==4.9.3
+# langchain==0.0.6
+# openai==0.10.2
+
+beautifulsoup4  # For HTML parsing
+langchain        # Core framework for building language processing pipelines
+langchain-huggingface  # Integration between LangChain and Hugging Face transformers
+faiss-cpu        # Efficient vector similarity search library (CPU version)
+# transformers      # Commented out as specific models aren't used
+langchain_community
